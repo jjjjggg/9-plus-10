@@ -1,0 +1,10 @@
+
+prompt1=input("name!:  ")
+if prompt1 == "Bess" or "bess" or "elisabeth" or "Elisabeth" or "Bess Morrell" or "Bess morrell" or "bess morrell":
+    print("\n \n \nHAPPY 21st BIRTHDAYYYY!!!!!\nGo krazie, you ADULT! ")
+    print("I hope you had an amazing Wednesday filled with lots of love!! You are the chocolate to my peanut butter! You are very big brain, beautiful, and so so kind! I will never stop looking up to you. Literally. Even when we are old ladies at Kendal. In the meantime, feel free to move back to NH with meeeee. We can explore Tri-Kap togetha ;) ") 
+    print("Here's to 21, lots of good things are coming your way :) Have a fabulous b-day and I'll see you soon!\nSo lucky to call you my frand <3 Love you always.")
+    print("-JÜDS \n \n")
+    print("P.S. Sorry for my v rudimentary Python skillz.\nP.P.S. Here is a very special number for ya: 1ZX341530395855282")
+else:
+       print("ok boomer") 
